@@ -1,2 +1,3 @@
 # PlatinumPlumbobSims
-My personal projects I have built for modding one of my favorite games and learning HTML, CSS, and Javascript
+A personal blog I built for hosting my mods, scripts, and game objects built for the Sims games
+
